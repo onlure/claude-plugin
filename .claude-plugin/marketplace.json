@@ -1,0 +1,21 @@
+{
+  "name": "onlure",
+  "owner": {
+    "name": "Onlure Technologies Inc",
+    "email": "support@onlure.ca"
+  },
+  "metadata": {
+    "description": "Onlure's plugin for Claude: find creators and run performance-based creator campaigns from a conversation."
+  },
+  "plugins": [
+    {
+      "name": "onlure",
+      "source": "./",
+      "description": "Performance-based marketing with creators, from a conversation with Claude: search 2000+ creators, draft campaigns for store visits or online sales on the Onlure Marketplace, and read each campaign's results by creator and channel.",
+      "version": "1.1.0",
+      "homepage": "https://onlure.ca/docs/ai-assistants",
+      "repository": "https://github.com/onlure/claude-plugin",
+      "license": "MIT"
+    }
+  ]
+}

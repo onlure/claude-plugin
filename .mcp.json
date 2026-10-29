@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onlure": {
+      "type": "http",
+      "url": "https://mcp.onlure.ca/mcp/claude"
+    }
+  }
+}
