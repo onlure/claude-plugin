@@ -12,7 +12,7 @@
       "name": "onlure",
       "source": "./",
       "description": "Performance-based marketing with creators, from a conversation with Claude: search 2000+ creators, draft campaigns for store visits or online sales on the Onlure Marketplace, and read each campaign's results by creator and channel.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "homepage": "https://onlure.ca/docs/ai-assistants",
       "repository": "https://github.com/onlure/claude-plugin",
       "license": "MIT"
