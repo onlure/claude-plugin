@@ -21,9 +21,9 @@ The plugin runs no code on your computer.
 
 ## Use it
 
-- **Without an account:** ask Claude for creators for your business, like "Find food creators in Kensington Market for my bakery". You'll get public profile facts, never prices or contact details.
+- **Without an account:** ask Claude for creators for your business, like "Find food creators in Kensington Market for my bakery". You'll get public profile facts and rates, never contact details.
 - **With your Onlure business account:** ask about your campaigns, walk-ins or applicants. Claude shows a Connect card, you sign in on onlure.ca, and Claude carries on. It can draft and edit campaigns, show who applied, keep a shortlist of creators, manage your store links and read verified walk-ins by creator and channel. Changes that are hard to undo, such as declining an applicant or closing a listing, are shown to you first and need your confirmation.
-- **Payments:** when payments are on for Claude, it can launch a campaign, book or pay a creator and top up your balance. Each payment is shown to you first and charged to the card saved on your Onlure account only after you confirm it. Otherwise these happen on onlure.ca.
+- **Payments:** when payments are on for Claude, it can launch a campaign and book or pay a creator. Each payment is shown to you first and charged to the card saved on your Onlure account only after you confirm it. With no card saved, Claude opens Stripe's card form right in the chat (or sends you to onlure.ca when the form can't open there): the card goes to Stripe, never into the conversation. A new account verifies its email in the chat with a six-digit code. Adding money to your Onlure balance, and anything not listed, happens on onlure.ca.
 
 Setup guide: https://onlure.ca/docs/ai-assistants
 
